@@ -61,7 +61,7 @@ header {
 
 .characters li:hover .bumper {height: 70px;}
 
-.characters li h5 {
+.characters li h2 {
       font-size: 20px;
       position: relative;
       margin-top: 10px;
@@ -149,7 +149,7 @@ footer {
       display:none;
       
       width: 100vw;
-      height: 110vh;
+      height: 900px;
 
       position: absolute;
       top: 0;

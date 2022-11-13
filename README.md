@@ -1,7 +1,5 @@
 # cssTangledCharacterBuild
 
-# Tangled Characters Build
-
 All about Tangled Characters! Click on images to learn more.
 
 
